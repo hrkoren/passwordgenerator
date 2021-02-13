@@ -8,7 +8,7 @@ Click [to use the password generator](https://hrkoren.github.io/passwordgenerato
 
 ## Usage
 
-![Image of Password Generator](./Assets/images.genpassword.PNG)
+![Image of Password Generator](../Assets/images.genpassword.PNG)
 
 Follow the steps below to generate random passwords🔢 
 1. Click on the [URL](https://hrkoren.github.io/passwordgenerator/) to open the site.
