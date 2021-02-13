@@ -6,7 +6,7 @@ The Password Generator lets you generate random passwords with numbers, upper or
 
 Click [to use the password generator](https://hrkoren.github.io/passwordgenerator/)
 
-## Usage
+## Usage 
 
 ![Image of Password Generator](../Assets/images.genpassword.PNG)
 
