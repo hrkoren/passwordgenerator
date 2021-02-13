@@ -69,7 +69,7 @@ function generatePassword() {
   var chosenChar = [];
   var charsInc = []; 
 
-//various character options
+//various character options for special characters, numbers, upper and lowercase
 if (userCriteria.confirmSpecialChar) {
   charsInc = charsInc.concat(specialChar);
   chosenChar.push(randomChar(specialChar));

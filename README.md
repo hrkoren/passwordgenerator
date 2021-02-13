@@ -4,14 +4,14 @@ The Password Generator lets you generate random passwords with numbers, upper or
 
 ## Installation
 
-Click [to use the password generator](https://hrkoren.gitbhub.com.io/...)
+Click [to use the password generator](https://hrkoren.github.io/passwordgenerator/)
 
 ## Usage
 
 ![Image of Password Generator](./Assets/images.genpassword.PNG)
 
 Follow the steps below to generate random passwords🔢 
-1. Click on the [URL](https://hrkoren.github.com/io/...) to open the site.
+1. Click on the [URL](https://hrkoren.github.io/passwordgenerator/) to open the site.
 2. Click on the 'Generate Password' button.
 3. When prompted
    a. Enter the length of password desired. It must be between 8 and 128 total characters.
