@@ -13,12 +13,12 @@ body,
 }
 
 body {
-  font-family: sans-serif;
-  background-color: #f9fbfd;
+  font-family: 'Bitter', serif;
+  background-color: #cce5fd;
 }
 
 .wrapper {
-  padding-top: 30px;
+  padding-top: 50px;
   padding-left: 20px;
   padding-right: 20px;
 }
@@ -30,13 +30,17 @@ header {
   color: hsl(206, 17%, 28%);
 }
 
+#PwdHeader {
+  font-size: 30px;
+}
+
 .card {
   background-color: hsl(0, 0%, 100%);
   border-radius: 5px;
   border-width: 1px;
   box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px 0px;
-  color: hsl(206, 17%, 28%);
-  font-size: 18px;
+  color: hsl(205, 26%, 18%);
+  font-size: 20px;
   margin: 0 auto;
   max-width: 800px;
   padding: 30px 40px;
@@ -113,7 +117,7 @@ button[disabled] {
   margin-top: 10px;
   margin-bottom: 10px;
   border: 2px dashed #c0c7cf;
-  border-radius: 6px;
+  border-radius: 8px;
   resize: none;
   overflow: hidden;
 }
