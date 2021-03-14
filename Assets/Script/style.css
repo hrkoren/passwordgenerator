@@ -34,11 +34,15 @@ header {
   font-size: 30px;
 }
 
+#GenPwd {
+  font-size: 22px;
+}
+
 .card {
   background-color: hsl(0, 0%, 100%);
   border-radius: 5px;
   border-width: 1px;
-  box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px 0px;
+  box-shadow: rgba(5, 5, 5, 0.15) 0px 3px 9px 0px;
   color: hsl(205, 26%, 18%);
   font-size: 20px;
   margin: 0 auto;
@@ -50,7 +54,7 @@ header {
   content: " ";
   display: block;
   width: 100%;
-  background: #e7e9eb;
+  background: #e5eaee;
   height: 2px;
 }
 
