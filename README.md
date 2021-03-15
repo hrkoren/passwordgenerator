@@ -8,7 +8,8 @@ Click [to use the password generator](https://hrkoren.github.io/passwordgenerato
 
 ## Usage 
 
-![Image of Pwd Gen](.Assets/Images/generatepwd.PNG)
+![Image of Pwd Gen](./Assets/Images/generatepwd.PNG)
+
 ![Image of Password Generator](./Assets/Images/GenPwd.PNG)
 
 Follow the steps below to generate random passwords🔢 
