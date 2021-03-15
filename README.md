@@ -24,10 +24,13 @@ Follow the steps below to generate random passwords🔢
 9. Click on the 'Generate Password' button again to create another random password based on the selections made, as noted above.
 
 ## Technologies Used
+
 This project uses html, css, javascript, and Google Fonts.
+
 ## License
 
-This project is not licensed.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 ## Tests
 
