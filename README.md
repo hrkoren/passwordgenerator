@@ -8,7 +8,7 @@ Click [to use the password generator](https://hrkoren.github.io/passwordgenerato
 
 ## Usage 
 
-![Image of Pwd Gen](.Assets/Images/genpassword.PNG)
+![Image of Pwd Gen](.Assets/Images/generatepwd.PNG)
 ![Image of Password Generator](./Assets/Images/GenPwd.PNG)
 
 Follow the steps below to generate random passwords🔢 
@@ -35,4 +35,4 @@ This generator can be tested by
 2. Making different selections for each prompt to verify each selection is included or excluded from the generated password.
 
 ## Contact Information
-[mailto](mailto:hrkoren@gmail.com)
+[hrkoren@gmail.com](mailto:hrkoren@gmail.com)
