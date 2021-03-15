@@ -8,7 +8,8 @@ Click [to use the password generator](https://hrkoren.github.io/passwordgenerato
 
 ## Usage 
 
-![Image of Password Generator](./Assets/Images/genpassword.PNG)
+![Image of Pwd Gen](.Assets/Images/genpassword.PNG)
+![Image of Password Generator](./Assets/Images/GenPwd.PNG)
 
 Follow the steps below to generate random passwords🔢 
 1. Click on the [URL](https://hrkoren.github.io/passwordgenerator/) to open the site.
@@ -21,6 +22,8 @@ Follow the steps below to generate random passwords🔢
 8. The password will then be generated and displayed in the box.
 9. Click on the 'Generate Password' button again to create another random password based on the selections made, as noted above.
 
+## Technologies Used
+This project uses html, css, javascript, and Google Fonts.
 ## License
 
 This project is not licensed.
@@ -30,3 +33,6 @@ This project is not licensed.
 This generator can be tested by
 1. Entering fewer than 8 or more than 128 characters.
 2. Making different selections for each prompt to verify each selection is included or excluded from the generated password.
+
+## Contact Information
+[mailto](mailto:hrkoren@gmail.com)
